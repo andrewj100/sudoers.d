@@ -1,4 +1,4 @@
-##This module adds the default sudoers file, if it exists, for an user listed in hiera.
+##This module adds the default sudoers file, if it exists, for a user listed in hiera.
 
 Users are defined in a hiera yaml file, this can be in common.yaml or in any other yaml file as follows:
 ```
